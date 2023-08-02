@@ -8,4 +8,4 @@ languages known :: Kannada, Hindi, English
 Hobbies : Learning Applications.
 Nationality : Indian
 Caste: Hindu Uppar
-EDUCATION QUALIFICATION 12th 
+EDUCATION QUALIFICATION 12th
